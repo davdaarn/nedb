@@ -13,6 +13,8 @@ The only change made was the removal of the following code from `package.json` t
 ...
 ```
 
+### Install
+
 ```
 npm i nedb-electron
 ```
