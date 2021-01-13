@@ -1,23 +1,22 @@
 {
-  "name": "nedb",
-  "version": "1.8.0",
+  "name": "nedb-electron",
+  "version": "1.0.0",
   "author": {
-    "name": "Louis Chatriot",
-    "email": "louis.chatriot@gmail.com"
+    "name": "David Long"
   },
   "contributors": [
-    "Louis Chatriot"
+    "David Long"
   ],
-  "description": "File-based embedded data store for node.js",
+  "description": "Set custom db paths with NeDB from the renderer process in Electron",
   "keywords": [
     "database",
     "datastore",
     "embedded"
   ],
-  "homepage": "https://github.com/louischatriot/nedb",
+  "homepage": "https://github.com/davdaarn/nedb-electron",
   "repository": {
     "type": "git",
-    "url": "git@github.com:louischatriot/nedb.git"
+    "url": "https://github.com/davdaarn/nedb-electron"
   },
   "dependencies": {
     "async": "0.2.10",
